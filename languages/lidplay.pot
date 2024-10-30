@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LidPlay Player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-12 10:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: lidplay.php:133
+msgid "Allow the plugin to create a video collection of your site?"
+msgstr ""
+
+#: lidplay.php:178
+msgid "Autoplay"
+msgstr ""
+
+#: lidplay.php:142
+msgid "Default resolution"
+msgstr ""
+
+#: lidplay.php:136
+msgid ""
+"Enabling this setting allows you to significantly reduce the number of "
+"failure rate on the site."
+msgstr ""
+
+#: lidplay.php:167
+msgid "Extra params"
+msgstr ""
+
+#: lidplay.php:186
+msgid "Feedback"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lidplay.net"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://lidplay.net/en/#install"
+msgstr ""
+
+#: lidplay.php:187
+msgid "If you have any questions or suggestions please contact us on"
+msgstr ""
+
+#: lidplay.php:135
+msgid ""
+"In the absence of a video, you will receive random video from the collection "
+"of your site."
+msgstr ""
+
+#. Author of the plugin
+msgid "LidPlay"
+msgstr ""
+
+#. Name of the plugin
+msgid "LidPlay Player"
+msgstr ""
+
+#: lidplay.php:49 lidplay.php:113
+msgid "LidPlay Settings"
+msgstr ""
+
+#: lidplay.php:156
+msgid "Other"
+msgstr ""
+
+#: lidplay.php:171
+msgid "Own label"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Playing video from VK.com, Mail.ru, OK.ru, Vimeo, RedTube, Google Drive, "
+"Mp4upload.com, Facebook.com in one player."
+msgstr ""
+
+#: lidplay.php:190
+msgid "Save Changes"
+msgstr ""
+
+#: lidplay.php:56
+msgid "Settings"
+msgstr ""
+
+#: lidplay.php:174
+msgid "Start position (seconds)"
+msgstr ""
+
+#: lidplay.php:170
+msgid "Subtitles (VTT, CORS)"
+msgstr ""
+
+#: lidplay.php:131
+msgid "Use collection"
+msgstr ""
+
+#: lidplay.php:120
+msgid "Use providers"
+msgstr ""
+
+#: lidplay.php:158
+msgid "Use your own domain for the player"
+msgstr ""
